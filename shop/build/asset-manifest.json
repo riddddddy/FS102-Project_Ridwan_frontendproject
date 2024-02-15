@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cec38fd6.css",
+    "main.js": "/static/js/main.1f7da6dc.js",
+    "static/media/fairytale-hero.jpg": "/static/media/fairytale-hero.ff5d7870709dc8d58008.jpg",
+    "static/media/107.jpg": "/static/media/107.0cb9ea7e13c8ee2649bf.jpg",
+    "static/media/support-1.png": "/static/media/support-1.fa4d332996ecb9d2d019.png",
+    "static/media/support-4.png": "/static/media/support-4.ccdb77f440ef50a6e551.png",
+    "static/media/support-2.png": "/static/media/support-2.28bfe3c2ddead80cc19f.png",
+    "static/media/support-3.png": "/static/media/support-3.b0ba0642f727ee3df5c8.png",
+    "static/media/sun-logo.png": "/static/media/sun-logo.d16ca85ddfae7cbe3558.png",
+    "static/media/contact-call.png": "/static/media/contact-call.dc3c99d6d6dd0237d9cb.png",
+    "static/media/contact-email.png": "/static/media/contact-email.b317b6debe0cf1a03044.png",
+    "index.html": "/index.html",
+    "main.cec38fd6.css.map": "/static/css/main.cec38fd6.css.map",
+    "main.1f7da6dc.js.map": "/static/js/main.1f7da6dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cec38fd6.css",
+    "static/js/main.1f7da6dc.js"
+  ]
+}
